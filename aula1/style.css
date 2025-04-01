@@ -50,7 +50,8 @@ body {
   }
   
   button:hover {
-    background-color: #1ABC9C;
+    background-color: #000000;
+    color: white;
   }
   
   /* Footer Styles */
