@@ -1,0 +1,44 @@
+{
+        "perguntas" : [
+        {
+            "pergunta": "Qual a capital do Japão?",
+            "respostas": [
+                { "opcao": "Tóquio", "correto": true },
+                { "opcao": "Osaka", "correto": false },
+                { "opcao": "Kyoto", "correto": false }
+            ]
+        },
+        {
+            "pergunta": "Qual planeta do nosso sistema solar é conhecido como o 'Planeta Vermelho'?",
+            "respostas": [
+                { "opcao": "Vênus", "correto": false },
+                { "opcao": "Marte", "correto": true },
+                { "opcao": "Saturno", "correto": false }
+            ]
+        },
+        {
+            "pergunta": "Que civilização desenvolveu o sistema de escrita hieroglífica?",
+            "respostas": [
+                { "opcao": "Gregos", "correto": false },
+                { "opcao": "Romanos", "correto": false },
+                { "opcao": "Egípcios", "correto": true }
+            ]
+        },
+        {
+            "pergunta": "Qual elemento químico tem símbolo 'Au'?",
+            "respostas": [
+                { "opcao": "Prata", "correto": false },
+                { "opcao": "Ouro", "correto": true },
+                { "opcao": "Mercúrio", "correto": false }
+            ]
+        },
+        {
+            "pergunta": "Quantos continentes existem no mundo?",
+            "respostas": [
+                { "opcao": "5", "correto": false },
+                { "opcao": "6", "correto": true },
+                { "opcao": "7", "correto": false }
+            ]
+        }
+    ]
+}
